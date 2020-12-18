@@ -1,4 +1,4 @@
-### Hi There 👋  I'm studying.
+### Hi There 👋  I'm studying Phython.
 
 <!--
 **Seungjik-Lee/Seungjik-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
